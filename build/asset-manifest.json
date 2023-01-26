@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.00f4ef53.css",
+    "main.js": "/react-portfolio/static/js/main.314ee83c.js",
+    "static/media/booksearch.png": "/react-portfolio/static/media/booksearch.4bae203e6c0d63ce0960.png",
+    "static/media/heroImage.jpg": "/react-portfolio/static/media/heroImage.4fcfa6676181d435cf3a.jpg",
+    "static/media/workday.png": "/react-portfolio/static/media/workday.41bfa7db61d79f7c94cf.png",
+    "static/media/passwordtracker.png": "/react-portfolio/static/media/passwordtracker.2ef2d3c1ed57fbfce150.png",
+    "static/media/timedcodequiz.png": "/react-portfolio/static/media/timedcodequiz.5d54ecdd302f67337742.png",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/randompassword.png": "/react-portfolio/static/media/randompassword.aa76bc9806964a61a76b.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/notetaker.png": "/react-portfolio/static/media/notetaker.027f1075a0ce916494a1.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/expressjs.png": "/react-portfolio/static/media/expressjs.7a2e473de9afcf0e2fef.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/nodejs.png": "/react-portfolio/static/media/nodejs.570cedbdc40dcb9e0130.png",
+    "static/media/mysql.png": "/react-portfolio/static/media/mysql.4676ad983d6bd3e9fac9.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.00f4ef53.css.map": "/react-portfolio/static/css/main.00f4ef53.css.map",
+    "main.314ee83c.js.map": "/react-portfolio/static/js/main.314ee83c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f4ef53.css",
+    "static/js/main.314ee83c.js"
+  ]
+}
